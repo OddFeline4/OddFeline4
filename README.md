@@ -2,6 +2,35 @@
 # I'm DataScientist
 I’m currently learning MachineLearning and DeepLearning. I graduated Moscow State University on Faculty of Physics (Biophysics Department). 
 
+SQL
+Python
+Git
+Machine Learning
+ML
+sklearn
+PostgreSQL
+Bootstrap
+XGBoost
+Статистика
+Keras
+Figma
+Jupyter Notebook
+Matplotlib
+Seaborn
+GitHub
+pandas
+Numpy
+CatBoost
+ООП
+СУБД
+TensorFlow
+NLP
+Requests
+Selenium
+PyCharm
+Deep Learning
+
+
 <!--
 **OddFeline4/OddFeline4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
