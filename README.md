@@ -3,31 +3,30 @@
 I’m currently learning MachineLearning and DeepLearning. I graduated Moscow State University on Faculty of Physics (Biophysics Department). 
 
 SQL|
-Python
-Git
-Machine Learning
-ML
-sklearn
-PostgreSQL
-Bootstrap
-XGBoost
-Статистика
-Keras
-Figma
-Jupyter Notebook
-Matplotlib
-Seaborn
-GitHub
-pandas
-Numpy
-CatBoost
-ООП
-СУБД
-TensorFlow
-NLP
-Requests
-Selenium
-PyCharm
+Python|
+Git|
+Machine Learning|
+ML|
+sklearn|
+PostgreSQL|
+Bootstrap|
+XGBoost|
+Keras|
+Figma|
+Jupyter Notebook|
+Matplotlib|
+Seaborn|
+GitHub|
+pandas|
+Numpy|
+CatBoost|
+ООП|
+СУБД|
+TensorFlow|
+NLP|
+Requests|
+Selenium|
+PyCharm|
 Deep Learning
 
 
