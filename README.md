@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Alexand Smirnov
-# I'm DataScientist 🔭
+# I'm a DataScientist 🔭
 I’m currently learning MachineLearning and DeepLearning. I graduated Moscow State University on Faculty of Physics (Biophysics Department). 
 
 ### I can:
