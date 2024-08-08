@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Alexand Smirnov
 # I'm DataScientist
-I’m currently learning MachineLearning and DeepLearning
+I’m currently learning MachineLearning and DeepLearning. I graduated Moscow State University on Faculty of Physics (Biophysics Department). 
 
 <!--
 **OddFeline4/OddFeline4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
