@@ -3,7 +3,7 @@
 I’m currently learning MachineLearning and DeepLearning. I graduated Moscow State University on Faculty of Physics (Biophysics Department). 
 
 ### I can:
-SQL | 
+** SQL | 
 Python | 
 Git | 
 Machine Learning | 
@@ -28,7 +28,7 @@ NLP |
 Requests | 
 Selenium | 
 PyCharm | 
-Deep Learning
+Deep Learning **
 
 
 <!--
