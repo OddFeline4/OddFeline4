@@ -1,4 +1,5 @@
-## Hi there 👋 I am DataScientist
+## Hi there 👋 I am Alexand Smirnov
+# I'm DataScientist
 I’m currently learning MachineLearning and DeepLearning
 
 <!--
